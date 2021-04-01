@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/SKG360/react_tutorial/static/css/main.a8e5ae9a.chunk.css",
+    "main.js": "/SKG360/react_tutorial/static/js/main.adfbe163.chunk.js",
+    "main.js.map": "/SKG360/react_tutorial/static/js/main.adfbe163.chunk.js.map",
+    "runtime-main.js": "/SKG360/react_tutorial/static/js/runtime-main.ddc11406.js",
+    "runtime-main.js.map": "/SKG360/react_tutorial/static/js/runtime-main.ddc11406.js.map",
+    "static/js/2.894c6aca.chunk.js": "/SKG360/react_tutorial/static/js/2.894c6aca.chunk.js",
+    "static/js/2.894c6aca.chunk.js.map": "/SKG360/react_tutorial/static/js/2.894c6aca.chunk.js.map",
+    "index.html": "/SKG360/react_tutorial/index.html",
+    "static/css/main.a8e5ae9a.chunk.css.map": "/SKG360/react_tutorial/static/css/main.a8e5ae9a.chunk.css.map",
+    "static/js/2.894c6aca.chunk.js.LICENSE.txt": "/SKG360/react_tutorial/static/js/2.894c6aca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ddc11406.js",
+    "static/js/2.894c6aca.chunk.js",
+    "static/css/main.a8e5ae9a.chunk.css",
+    "static/js/main.adfbe163.chunk.js"
+  ]
+}
